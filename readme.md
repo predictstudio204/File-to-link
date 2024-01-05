@@ -80,7 +80,7 @@ then goto the <a href="#mandatory-vars">variables tab</a> for more info on setti
 
 
 ```py
-git clone https://github.com/predictstudio204/File-to-link.git
+git clone https://github.com/predictstudio204/File-to-link
 cd filestreambot-pro
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
